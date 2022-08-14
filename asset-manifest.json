@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/apuestasQatarUMG/static/css/main.26b57494.css",
+    "main.js": "/apuestasQatarUMG/static/js/main.f9ac8cf1.js",
+    "static/js/787.e9598b82.chunk.js": "/apuestasQatarUMG/static/js/787.e9598b82.chunk.js",
+    "index.html": "/apuestasQatarUMG/index.html",
+    "main.26b57494.css.map": "/apuestasQatarUMG/static/css/main.26b57494.css.map",
+    "main.f9ac8cf1.js.map": "/apuestasQatarUMG/static/js/main.f9ac8cf1.js.map",
+    "787.e9598b82.chunk.js.map": "/apuestasQatarUMG/static/js/787.e9598b82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26b57494.css",
+    "static/js/main.f9ac8cf1.js"
+  ]
+}
